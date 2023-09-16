@@ -2,7 +2,7 @@
 
 If you want to get inspiration or just show something directly to your clients, you can jump start your development with pre-built example pages. You will be able to quickly set up the basic structure for your web project.
 
-View <a href="https://abhishek1mandal.github.io/my-profile_TSX/" target="_blank">example pages here.</a>
+View <a href="https://abhishek1mandal.github.io/Profile/" target="_blank">example pages here.</a>
 
 
 # Getting Started with Create React App

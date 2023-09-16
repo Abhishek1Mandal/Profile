@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/Profile/static/css/main.2a770739.css",
+    "main.js": "/Profile/static/js/main.c75dc6f5.js",
+    "static/js/787.f2a0fa2f.chunk.js": "/Profile/static/js/787.f2a0fa2f.chunk.js",
+    "static/media/portfolio.png": "/Profile/static/media/portfolio.0fb66604f3383cd36881.png",
+    "static/media/portfolio-06.jpg": "/Profile/static/media/portfolio-06.ea07d96454b4d7036952.jpg",
+    "static/media/portfolio-03.jpg": "/Profile/static/media/portfolio-03.78e7f47277db062e42ce.jpg",
+    "static/media/portfolio-05.jpg": "/Profile/static/media/portfolio-05.48fc29908a42185ebcac.jpg",
+    "static/media/portfolio-04.jpg": "/Profile/static/media/portfolio-04.b181b68b278c583999d7.jpg",
+    "static/media/portfolio-02.jpg": "/Profile/static/media/portfolio-02.18f98e2c71da9c1289b0.jpg",
+    "static/media/portfolio-07.jpg": "/Profile/static/media/portfolio-07.7e51d9d8fbe739866e5c.jpg",
+    "static/media/Abhishek.png": "/Profile/static/media/Abhishek.a679c5cc07a161580945.png",
+    "static/media/pyImage.png": "/Profile/static/media/pyImage.cb6dee0032b3173564d4.png",
+    "static/media/reactjs_logo_icon_206693.svg": "/Profile/static/media/reactjs_logo_icon_206693.5baa7ce7211ad373d626c2e10be0a324.svg",
+    "static/media/react.svg": "/Profile/static/media/react.286f296c576fece03c93d6e911613424.svg",
+    "static/media/illustrator_brands_icon_256539.svg": "/Profile/static/media/illustrator_brands_icon_256539.d0ff99fd8f18c8f28455c7dfc8dd181c.svg",
+    "static/media/html.svg": "/Profile/static/media/html.c42714a1fb6a62f3a2a03b70f4254b33.svg",
+    "static/media/typescript_logo_icon_249332.svg": "/Profile/static/media/typescript_logo_icon_249332.1b46c028879d6c94a56e6dfc1fd6797b.svg",
+    "static/media/basic_visual_brands_icon_256601.svg": "/Profile/static/media/basic_visual_brands_icon_256601.5e2690f0fbaacd988ebf103738346b70.svg",
+    "static/media/file_type_typescript_icon_130108.svg": "/Profile/static/media/file_type_typescript_icon_130108.345c7bd2b904579f73f62d6978b5a04b.svg",
+    "static/media/vite_logo_icon_249258.svg": "/Profile/static/media/vite_logo_icon_249258.8ecb7a4163aa0b6d847705c4b3c32900.svg",
+    "index.html": "/Profile/index.html",
+    "static/media/apps-2-line.svg": "/Profile/static/media/apps-2-line.6aa7b43f5b363d15b5dd8892d6cc8307.svg",
+    "main.2a770739.css.map": "/Profile/static/css/main.2a770739.css.map",
+    "main.c75dc6f5.js.map": "/Profile/static/js/main.c75dc6f5.js.map",
+    "787.f2a0fa2f.chunk.js.map": "/Profile/static/js/787.f2a0fa2f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2a770739.css",
+    "static/js/main.c75dc6f5.js"
+  ]
+}
